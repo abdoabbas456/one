@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b07e137b.chunk.css",
+    "main.js": "/static/js/main.39f54f94.chunk.js",
+    "main.js.map": "/static/js/main.39f54f94.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd377bed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd377bed.js.map",
+    "static/js/2.f2e35bae.chunk.js": "/static/js/2.f2e35bae.chunk.js",
+    "static/js/2.f2e35bae.chunk.js.map": "/static/js/2.f2e35bae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4bfa8c7b3a0dedb578e2092e57368f7c.js": "/precache-manifest.4bfa8c7b3a0dedb578e2092e57368f7c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b07e137b.chunk.css.map": "/static/css/main.b07e137b.chunk.css.map",
+    "static/js/2.f2e35bae.chunk.js.LICENSE.txt": "/static/js/2.f2e35bae.chunk.js.LICENSE.txt",
+    "static/media/Mask Group 3.svg": "/static/media/Mask Group 3.32b847c5.svg",
+    "static/media/bars.svg": "/static/media/bars.b3f49afd.svg",
+    "static/media/card1.svg": "/static/media/card1.9d7f5105.svg",
+    "static/media/card2.svg": "/static/media/card2.8a7a392a.svg",
+    "static/media/card3.svg": "/static/media/card3.e061caf4.svg",
+    "static/media/hero1.jpg": "/static/media/hero1.26306a76.jpg",
+    "static/media/search.svg": "/static/media/search.78f3123c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd377bed.js",
+    "static/js/2.f2e35bae.chunk.js",
+    "static/css/main.b07e137b.chunk.css",
+    "static/js/main.39f54f94.chunk.js"
+  ]
+}
